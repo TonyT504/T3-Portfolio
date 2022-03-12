@@ -22,4 +22,4 @@ THEN I am presented with a responsive layout that adapts to my viewport
 - This one was more challenging than the first. I tries my best to satistfy the acceptance criteria. My biggest challenge for this assignment was the media queries. I hope to gain more experience over the course of this bootcamp and will update my portfolio as I progress.
 
 Link to repo: https://github.com/TonyT504/T3-Portfolio
-Link to URL: 
+Link to URL: https://tonyt504.github.io/T3-Portfolio/
